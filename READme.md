@@ -9,3 +9,4 @@
 
 Sauvegarde de la configuration
 Dès que la configuration est terminée, il est recommandé de l’enregistrer pour pouvoir la réutiliser lors d’un prochain test.
+[image](img/setup.png)
