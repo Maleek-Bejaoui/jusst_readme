@@ -1,3 +1,4 @@
+SHELL := /bin/bash
 
 ENV_DIR=malek_myenv
 PROJECT_DIR=Desktop/NAASC/SpikCU-Master-Tools
